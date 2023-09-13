@@ -20,7 +20,7 @@
 </div>
 
   ### :man_technologist: About me:
-  - An engineer interested in Python programming, data analysis, machine learning, and cybersecurity.
+  - An engineer interested in programming, data analysis, machine learning, and cybersecurity.
 
   ### ⌨️: Languages:
 <div align="center">

@@ -21,6 +21,7 @@
 
   ### :man_technologist: About me:
   - An engineer interested in programming, data analysis, machine learning, and cybersecurity.
+  - Maritime University of Szczecin student (Master's degree)
 
   ### ⌨️: Languages:
 <div align="center">

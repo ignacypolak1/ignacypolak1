@@ -47,12 +47,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="Pycharm" alt="Pycharm" width="60" height="60"/>
 </div>
-
-  ### :hourglass: Future Plans:
-<div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="60" height="60"/>
-</div>
   
 
 

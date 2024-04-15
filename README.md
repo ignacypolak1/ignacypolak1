@@ -27,7 +27,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="C#" alt="C#" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>
 </div>
  
   ### :package: Frameworks and Libraries:

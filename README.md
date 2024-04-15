@@ -20,8 +20,7 @@
 </div>
 
   ### :man_technologist: About me:
-  - An engineer interested in programming, data science, machine learning, and ethical hacking.
-  - Maritime University of Szczecin student (Master's degree)
+  - An engineer interested in computer science, programming, data science, machine learning and ethical hacking.
 
   ### ⌨️: Languages:
 <div align="center">

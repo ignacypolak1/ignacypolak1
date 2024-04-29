@@ -21,6 +21,7 @@
 
   ### :man_technologist: About me:
   - An engineer interested in computer science, programming, data science, machine learning and ethical hacking.
+  - IT engineer and finances and accounting master's degree student.
 
   ### ⌨️: Languages:
 <div align="center">
